@@ -1,0 +1,19 @@
+label{
+  font-weight: bold;
+  margin-bottom:0px;
+}
+.container{  
+padding-left:20px;  
+margin: 0px;
+  }
+  .required:after {
+    content:" *";
+    color: red;
+  } 
+  body{
+    padding:20px;
+  }
+ .field{
+   margin-bottom:10px;  
+ }
+ 
